@@ -1,3 +1,4 @@
+#This finds the factorial of a number
 def factorial(n):
     multiplied = n
     while n > 1:
